@@ -1,7 +1,7 @@
 # Table of contents
 * [Using DocOrigin](Using-DocOrigin)
-  * [Getting started](Getting-started)
-  * [License keys](License-keys)
+  * [Getting started](Getting-Started)
+  * [License keys](License-Keys)
 * [Overview](Overview)
 * [Internal item](#Internal-item)
 

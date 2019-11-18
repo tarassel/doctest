@@ -1,5 +1,3 @@
-"# tarassel.github.io" 
-
 # Table of contents
 * [Using DocOrigin](Using-DocOrigin)
   * [Getting started](Getting-started)
